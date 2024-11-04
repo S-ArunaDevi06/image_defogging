@@ -1,4 +1,4 @@
-# image_defogging
+# Image Defogging
 
 ## Introduction
 Fog is one of the major issus that makes driving dangerous in situations. In the era of developing autonomous vehicles, fog is a major concern as it will block the camera and the system will not be able to take appropriate decisions leading to accidents. To address this issue, this defogging system is developed.
