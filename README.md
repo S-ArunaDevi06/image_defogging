@@ -11,3 +11,4 @@ The proposed methodology for enhancing visibility and quality in foggy images le
 
 ## Result
 Structural similarity index: 0.4954. The peak signal to noise ratio (psnr): 27.9056
+![image](https://github.com/user-attachments/assets/2381c65e-a841-4b29-85b4-817cc994b26b)
